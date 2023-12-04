@@ -261,7 +261,7 @@ h6 {
 }
 
 #hero p {
-  color: #fff;
+  color: black;
   margin-bottom: 50px;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
@@ -271,7 +271,7 @@ h6 {
   color: #fff;
   padding-bottom: 4px;
   letter-spacing: 1px;
-  border-bottom: 3px solid #149ddd;
+  border-bottom: 3px solid none;
 }
 
 @media (min-width: 1024px) {
